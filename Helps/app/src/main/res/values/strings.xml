@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Helps</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_helps">Helps</string>
+    <string name="map">MAP</string>
+    <string name="call">CALL</string>
+    <string name="share">SHARE</string>
+    <string name="web">WEB</string>
+    <string name="sms">SMS</string>
+</resources>
